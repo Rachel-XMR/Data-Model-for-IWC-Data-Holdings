@@ -1,10 +1,5 @@
 # Data-Model-for-IWC-Data-Holdings
 Industry partner: International Whaling Commission (IWC)
-
-***
-Course Unit Leader: Dr Nuno Pinto (NP) nuno.pinto@manchester.ac.uk
-Industry partner: International Whaling Commission (IWC)
-Project Mentor at Industry Partner: Lydia O’Loughlin – Ship Strikes and Strandings Data Manager
 ***
 
 ## Brief description

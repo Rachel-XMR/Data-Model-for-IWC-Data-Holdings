@@ -1,6 +1,6 @@
 # Data-Model-for-IWC-Data-Holdings
 Industry partner: International Whaling Commission (IWC)
-***
+
 
 ## Brief description
 The IWC Scientific Committee and Conservation Committee works in areas of stranding, vessel strike, bycatch, marine debris and entanglement and uses data from these areas to assess, manage and conserve cetacean populations, some of which are severely impacted by human activities. The data from these work areas have varying degrees of development already implemented. Some have developed global databases, while others have developed regional and country databases. The current state of the various data holdings does not allow for easy integration, the project undertaken will be to assess the various databases and datasets, design a data model for integration and develop potential data access opportunities.

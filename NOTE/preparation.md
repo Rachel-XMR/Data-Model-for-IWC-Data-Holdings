@@ -15,7 +15,7 @@ Step:
 	- deliverables:
 		- [ ] Data set inventory document (with data source description and assessment report).
 		- [ ] Data folder (backup of original data or link).
-2. Data model design (**Objective 2**)
+2. ## Data model design (**Objective 2**)
 	- task:
 		- [ ] Study existing data models (e.g. star schema, snowflake schema).
 		- [ ] Design a unified data model that supports spatio-temporal data analysis (e.g. animal attributes, event locations, timestamps).
@@ -23,7 +23,7 @@ Step:
 	- deliverables:
 		- [ ]  Data model design documentation (ER diagram, field definitions, normalisation rules)
 	
-3. Data integration and pipeline development (**Objective 2**)
+3. ## Data integration and pipeline development (**Objective 2**)
 	- task:
 		- [ ]  Develop ETL (Extract-Transform-Load) processes to cleanse and transform data.
 		- [ ] Build data warehouses (e.g. using AWS Redshift, Google BigQuery or local MySQL clusters).
@@ -31,7 +31,7 @@ Step:
 	- deliverables:
 		- [ ] Data pipeline code repository (including ETL scripts).
 		- [ ] Data warehouse deployment documentation.
-4. Data Visualisation Development (**Objective 3**)
+4. ## Data Visualisation Development (**Objective 3**)
 	- task:
 		- [ ] Identify stakeholder needs (e.g. heat maps, time trend analysis).
 		- [ ] Select tools (e.g. Tableau, Power BI, Python Dash/Plotly).
@@ -39,7 +39,7 @@ Step:
 	- deliverables:
 		- [ ] Visualisation tools or dashboards (accessible web link or locally deployed).
 		- [ ] User operating instructions.
-5.  Gap Analysis (**Objective 4**)
+5.  ## Gap Analysis (**Objective 4**)
 	- task:
 		- [ ] Compare existing data with ideal coverage (spatiotemporal dimensions).
 		- [ ] Identify missing regions/time periods (e.g., insufficient Southern Hemisphere data).
@@ -47,7 +47,7 @@ Step:
 	- **Deliverables**:
 	    - [ ] Gap analysis report (with map visualizations and priority recommendations).
 
-6.  Documentation and Final Delivery
+6.  ## Documentation and Final Delivery
 
 - **Tasks**:
     

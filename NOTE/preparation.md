@@ -7,7 +7,7 @@ AIM:
 
 Step:
 
-1. Data collection and evaluation (**Objective 1**)
+1. ## Data collection and evaluation (**Objective 1**)
 	- task:
 		- [ ] Identify’ all available data sources (e.g. MySQl databases, external data sets, local databases, etc.)  
 		- [ ] Evaluate data quality (integrity, consistency, format compatibility)
@@ -47,7 +47,17 @@ Step:
 	- **Deliverables**:
 	    - [ ] Gap analysis report (with map visualizations and priority recommendations).
 
+6.  Documentation and Final Delivery
 
+- **Tasks**:
+    
+    - Compile all deliverables (datasets, model documentation, visualization tools, gap report).
+        
+    - Draft a final project report (technical solutions and outcomes).
+        
+- **Deliverables**:
+    
+    - Final project package (PDF/ZIP).
 
 
 

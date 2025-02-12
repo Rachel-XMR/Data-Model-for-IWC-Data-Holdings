@@ -39,7 +39,7 @@ Step:
 	- deliverables:
 		- [ ] Visualisation tools or dashboards (accessible web link or locally deployed).
 		- [ ] User operating instructions.
-5.  ## Gap Analysis (**Objective 4**)
+5. ## Gap Analysis (**Objective 4**)
 	- task:
 		- [ ] Compare existing data with ideal coverage (spatiotemporal dimensions).
 		- [ ] Identify missing regions/time periods (e.g., insufficient Southern Hemisphere data).

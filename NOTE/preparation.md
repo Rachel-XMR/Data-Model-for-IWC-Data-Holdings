@@ -68,3 +68,11 @@ Timetable:
 - **Data Warehouse**: MySQL, PostgreSQL (for geospatial support).
 - **Visualization**: Tableau (rapid development), Python Dash (customization).
 - **Collaboration**: GitHub (version control), Notion (documentation).
+- 
+
+# report refer
+
+https://www.staffnet.manchester.ac.uk/governance/handbook/report-paper-writing/
+https://www.overleaf.com/3442766474mqzkrwzfcgyn#d8cba3
+https://www.overleaf.com/latex/templates/uoft-bdc-project-report/vwbjqdbzqsyw
+https://www.overleaf.com/latex/templates/symposium-on-data-science-and-statistics-sdss-2022-template-for-contributed-papers/dkcnmtjqyzrt

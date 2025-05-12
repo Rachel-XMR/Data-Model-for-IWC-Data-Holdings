@@ -1,0 +1,18 @@
+“`yaml
+name: Build and Deploy MySQL Server
+on:
+  push:
+    branches:
+      – main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    – name: Set up MySQL Server
+      uses: mysql-actions/setup-mysql@v3
+      with:
+        mysql-version: ‘8.0’
+        mysql-password: ${{ secrets.DB_PASSWORD }}
+    – name: Run MySQL Server
+      run: mysql.server start
+“`
